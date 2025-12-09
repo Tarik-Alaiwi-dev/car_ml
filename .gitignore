@@ -3,3 +3,5 @@ model.pkl
 rf_model.pkl
 label_encoder.pkl
 data/
+del
+encoders.pkl
